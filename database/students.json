@@ -1,0 +1,2 @@
+{"_id":{"$oid":"595f5dee15dbe03f489db6b8"},"_class":"com.hsenid.domains.Student","name":"Test","age":26,"grade":"13A","classRank":13}
+{"_id":{"$oid":"5962e6bb15dbe00fe1e13eaa"},"_class":"com.hsenid.domains.Student","name":"Test","age":26,"grade":"13A","classRank":13}

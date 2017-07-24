@@ -10,6 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>api</artifactId>
+
+    <properties>
+        <start-class>hsenid.api.ApiStarter</start-class>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>hsenid</groupId>
