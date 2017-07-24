@@ -1,0 +1,13 @@
+# MongoDB settings
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: school
+
+# Server settings
+server:
+  port: 5000
+  connection-timeout: 100
+  contextPath: /api/
